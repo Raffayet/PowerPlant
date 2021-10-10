@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1610805901 source:d:\codeblocks\source\op\2019\sw75\main.c
+	"stdio.h"
+	"stdlib.h"
+	"funkcionalnosti.h"
+
+1610792925 d:\codeblocks\source\op\2019\sw75\elektrana.h
+
+1610805532 source:d:\codeblocks\source\op\2019\sw75\funkcionalnosti.c
+	"funkcionalnosti.h"
+	<limits.h>
+
+1610804758 d:\codeblocks\source\op\2019\sw75\funkcionalnosti.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"Elektrana.h"
+
+1610805534 source:c:\users\dok trepneš\desktop\deo2\funkcionalnosti.c
+	"funkcionalnosti.h"
+	<limits.h>
+
+1610804760 c:\users\dok trepneš\desktop\deo2\funkcionalnosti.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"Elektrana.h"
+
+1610792926 c:\users\dok trepneš\desktop\deo2\elektrana.h
+
+1610805902 source:c:\users\dok trepneš\desktop\deo2\main.c
+	"stdio.h"
+	"stdlib.h"
+	"funkcionalnosti.h"
+
+1610805534 source:c:\users\dok trepneš\desktop\materijal\deo2\funkcionalnosti.c
+	"funkcionalnosti.h"
+	<limits.h>
+
+1610804760 c:\users\dok trepneš\desktop\materijal\deo2\funkcionalnosti.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	"Elektrana.h"
+
+1610792926 c:\users\dok trepneš\desktop\materijal\deo2\elektrana.h
+
+1610805902 source:c:\users\dok trepneš\desktop\materijal\deo2\main.c
+	"stdio.h"
+	"stdlib.h"
+	"funkcionalnosti.h"
+
